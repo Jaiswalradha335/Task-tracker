@@ -1,1 +1,1 @@
-#This is a simple task tracker
+This is a simple task tracker
